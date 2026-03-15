@@ -1,6 +1,6 @@
 # Tasks
 
-- [/] Setup inicial do projeto
+- [ ] Setup inicial do projeto
 - [/] Teste
   - [ ] teste
   - [ ] teste2

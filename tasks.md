@@ -7,6 +7,6 @@
 - [x] Definir primeiras tasks
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
-- [ ] Teste
+- [x] Teste
   - [ ] Teste
   - [ ] Teste1

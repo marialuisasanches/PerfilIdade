@@ -4,6 +4,6 @@
 - [ ] Definir primeiras tasks
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
-- [/] Teste
+- [ ] Teste
   - [ ] teste
   - [ ] teste2

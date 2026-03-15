@@ -1,6 +1,6 @@
 # Tasks
 
 - [ ] Setup inicial do projeto
-- [x] Definir primeiras tasks
+- [/] Definir primeiras tasks
   - [ ] Revisar backlog
   - [ ] Priorizar sprint

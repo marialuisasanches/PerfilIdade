@@ -7,6 +7,6 @@
 - [ ] Teste
   - [ ] Teste
   - [ ] Teste1
-- [/] Teste
+- [ ] Teste
   - [ ] teste
   - [ ] teste2

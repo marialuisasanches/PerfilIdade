@@ -1,5 +1,8 @@
 # Tasks
 
+- [/] Teste
+  - [ ] teste
+  - [ ] teste2
 - [/] Definir primeiras tasks
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
@@ -7,6 +10,3 @@
 - [ ] Teste
   - [ ] Teste
   - [ ] Teste1
-- [/] Teste
-  - [ ] teste
-  - [ ] teste2

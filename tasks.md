@@ -1,6 +1,6 @@
 # Tasks
 
-- [x] Definir primeiras tasks
+- [ ] Definir primeiras tasks
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
 - [x] Teste

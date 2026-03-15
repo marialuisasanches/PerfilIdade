@@ -3,7 +3,7 @@
 - [/] Definir primeiras tasks
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
-- [/] Teste
+- [ ] Teste
   - [ ] teste
   - [ ] teste2
 - [x] Setup inicial do projeto

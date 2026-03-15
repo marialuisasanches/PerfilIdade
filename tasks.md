@@ -1,7 +1,7 @@
 # Tasks
 
 - [ ] Setup inicial do projeto
-- [/] Teste
+- [ ] Teste
   - [ ] teste
   - [ ] teste2
 - [x] Definir primeiras tasks

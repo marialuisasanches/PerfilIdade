@@ -1,6 +1,6 @@
 # Tasks
 
-- [/] Teste
+- [x] Teste
   - [ ] teste
   - [ ] teste2
 - [/] Definir primeiras tasks

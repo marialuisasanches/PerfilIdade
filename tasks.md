@@ -4,9 +4,9 @@
   - [ ] Revisar backlog
   - [ ] Priorizar sprint
 - [x] Setup inicial do projeto
-- [/] Teste
-  - [ ] teste
-  - [ ] teste2
 - [ ] Teste
   - [ ] Teste
   - [ ] Teste1
+- [ ] Teste
+  - [ ] teste
+  - [ ] teste2
